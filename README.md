@@ -2,6 +2,14 @@
 
   C 语言实现.
 
+## 编译与运行
+
+  * `make build`编译动态库.
+
+  * `make demo`编译测试代码.
+
+  * `make clean`清理编译文件.
+
 ## 快速排序算法
 
   包含:
@@ -77,7 +85,7 @@ int main(int argc, char const *argv[])
 
 ## 测试
 
-  查看`demo.c`代码后自行编写更多的测试用例.
+  查看`demo.c`代码后, 可自行编写更多的测试用例.
 
 ## 协议
 
